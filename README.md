@@ -1,8 +1,8 @@
 # Steam authentication for Laravel 5
-[![Code Climate](https://codeclimate.com/github/invisnik/laravel-steam-auth/badges/gpa.svg)](https://codeclimate.com/github/invisnik/laravel-steam-auth)
-[![Latest Stable Version](https://img.shields.io/packagist/v/invisnik/laravel-steam-auth.svg)](https://packagist.org/packages/invisnik/laravel-steam-auth)
-[![Total Downloads](https://img.shields.io/packagist/dt/invisnik/laravel-steam-auth.svg)](https://packagist.org/packages/invisnik/laravel-steam-auth)
-[![License](https://img.shields.io/github/license/invisnik/laravel-steam-auth.svg)](https://packagist.org/packages/invisnik/laravel-steam-auth)
+[![Code Climate](https://codeclimate.com/github/TruckersMP/laravel-steam-auth/badges/gpa.svg)](https://codeclimate.com/github/TruckersMP/laravel-steam-auth)
+[![Latest Stable Version](https://img.shields.io/packagist/v/TruckersMP/laravel-steam-auth.svg)](https://packagist.org/packages/TruckersMP/laravel-steam-auth)
+[![Total Downloads](https://img.shields.io/packagist/dt/TruckersMP/laravel-steam-auth.svg)](https://packagist.org/packages/TruckersMP/laravel-steam-auth)
+[![License](https://img.shields.io/github/license/TruckersMP/laravel-steam-auth.svg)](https://packagist.org/packages/TruckersMP/laravel-steam-auth)
 
 This package is a Laravel 5 service provider which provides support for Steam OpenID and is very easy to integrate with any project that requires Steam authentication.
 
@@ -10,7 +10,7 @@ This package is a Laravel 5 service provider which provides support for Steam Op
 Add this to your `composer.json` file, in the require object:
 
 ```javascript
-"invisnik/laravel-steam-auth": "3.*"
+"TruckersMP/laravel-steam-auth": "3.*"
 ```
 
 After that, run `composer install` to install the package.
