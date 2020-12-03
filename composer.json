@@ -1,5 +1,5 @@
 {
-    "name": "TruckersMP/laravel-steam-auth",
+    "name": "truckersmp/laravel-steam-auth",
     "description": "Laravel Steam Auth - TruckersMP",
     "keywords": ["steam", "laravel", "auth"],
     "license": "MIT",
